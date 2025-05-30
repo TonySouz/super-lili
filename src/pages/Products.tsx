@@ -1,9 +1,11 @@
 const Product = () => {
     return (
         <>
-            <div>
-                <h1>Super LILI</h1>
+        <div className="container">
+            <div className="row">
+                <h1>Produtos</h1>
             </div>
+        </div>
         </>
     )
 }
